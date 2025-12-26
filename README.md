@@ -13,6 +13,7 @@ Repository này chứa các tài liệu, bài học và hướng dẫn về Syst
 - [03. Tính nhất quán và khả dụng trong System Design](./03_Consistency_and_Availability_in_System_Design.md) - Định lý CAP, PACELC, các mô hình nhất quán và Quorum
 - [04. Cơ sở dữ liệu và Chiến lược Phân mảnh](./04_Database_Selection_Sharding_and_Storage_Optimization.md) - B-Tree vs LSM Tree, Sharding strategies, Consistent Hashing, và Distributed KV Store
 - [05. Mở rộng hệ thống & Tối ưu hiệu suất](./05_Scalability_and_Performance_Optimization.md) - Load Balancer, Caching, Rate Limiting, Message Queue, và thiết kế News Feed
+- [06. Idempotency & Cơ chế Khóa](./06_Idempotency_and_Locking_Mechanisms.md) - Idempotency Key, Unique ID Generator, Pessimistic/Optimistic Locking, Distributed Lock, và URL Shortener
 
 ## 🎯 Mục tiêu
 
