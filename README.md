@@ -9,6 +9,7 @@ Repository này chứa các tài liệu, bài học và hướng dẫn về Syst
 ## 📖 Nội dung
 
 - [01. Giới thiệu](./01_Introduction.md) - Tổng quan về System Design Interview, các kỹ năng cần thiết và quy trình 4 bước "vàng"
+- [02. Các khái niệm nền tảng trong Thiết kế hệ thống](./02_Foundational_Concepts_in_System_Design.md) - Latency & Throughput, Scalability, Availability, và các thành phần kiến trúc cơ bản
 
 ## 🎯 Mục tiêu
 
