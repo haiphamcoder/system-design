@@ -15,6 +15,7 @@ Repository này chứa các tài liệu, bài học và hướng dẫn về Syst
 - [05. Mở rộng hệ thống & Tối ưu hiệu suất](./05_Scalability_and_Performance_Optimization.md) - Load Balancer, Caching, Rate Limiting, Message Queue, và thiết kế News Feed
 - [06. Idempotency & Cơ chế Khóa](./06_Idempotency_and_Locking_Mechanisms.md) - Idempotency Key, Unique ID Generator, Pessimistic/Optimistic Locking, Distributed Lock, và URL Shortener
 - [07. Các phương thức giao tiếp & Thiết kế API](./07_Communication_Methods_and_API_Design.md) - TCP vs UDP, REST vs gRPC, WebSocket, Long Polling, và thiết kế hệ thống Chat
+- [08. Khả năng chịu lỗi & Phục hồi hệ thống](./08_Fault_Tolerance_and_System_Recovery.md) - Redundancy, Replication, Failover, Circuit Breaker, Bulkhead Pattern, và Retry strategies
 
 ## 🎯 Mục tiêu
 
