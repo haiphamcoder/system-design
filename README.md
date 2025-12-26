@@ -18,6 +18,7 @@ Repository này chứa các tài liệu, bài học và hướng dẫn về Syst
 - [08. Khả năng chịu lỗi & Phục hồi hệ thống](./08_Fault_Tolerance_and_System_Recovery.md) - Redundancy, Replication, Failover, Circuit Breaker, Bulkhead Pattern, và Retry strategies
 - [09. Bảo mật trong hệ thống phân tán](./09_Security_in_Modern_Distributed_Systems.md) - Authentication & Authorization, JWT, OAuth2, Password Storage, HTTPS & TLS
 - [10. Monitoring và Observability](./10_Monitoring_and_Observability.md) - Metrics (Push vs Pull), Distributed Tracing, Structured Logging, và Smart Alerting
+- [11. Lời kết](./11_Afterword.md) - Tổng kết hành trình, những điều cần nhớ và bước tiếp theo
 
 ## 🎯 Mục tiêu
 
