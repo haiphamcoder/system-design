@@ -12,6 +12,7 @@ Repository này chứa các tài liệu, bài học và hướng dẫn về Syst
 - [02. Các khái niệm nền tảng trong Thiết kế hệ thống](./02_Foundational_Concepts_in_System_Design.md) - Latency & Throughput, Scalability, Availability, và các thành phần kiến trúc cơ bản
 - [03. Tính nhất quán và khả dụng trong System Design](./03_Consistency_and_Availability_in_System_Design.md) - Định lý CAP, PACELC, các mô hình nhất quán và Quorum
 - [04. Cơ sở dữ liệu và Chiến lược Phân mảnh](./04_Database_Selection_Sharding_and_Storage_Optimization.md) - B-Tree vs LSM Tree, Sharding strategies, Consistent Hashing, và Distributed KV Store
+- [05. Mở rộng hệ thống & Tối ưu hiệu suất](./05_Scalability_and_Performance_Optimization.md) - Load Balancer, Caching, Rate Limiting, Message Queue, và thiết kế News Feed
 
 ## 🎯 Mục tiêu
 
